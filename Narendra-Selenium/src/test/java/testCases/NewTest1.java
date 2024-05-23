@@ -18,7 +18,7 @@ public class NewTest1 extends baseClass {
 	public loginPage lp;
 	public ExtentReporting extent;
 	//org.apache.log4j.Logger log = logger.getLogger(NewTest1.class);
-	
+	//for testing git commint
 	
 	 @BeforeTest	
      @Parameters("browser")
